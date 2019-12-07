@@ -1,3 +1,3 @@
-# ntub
-data
-github teach
+# 資料視覺化
+#學校 台北商業大學企管系
+#姓名 張甯翔
